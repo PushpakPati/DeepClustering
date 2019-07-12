@@ -26,6 +26,8 @@
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
 | [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
+| [Deep Embedding Clustering](https://arxiv.org/abs/1511.06335) |  ICML 2016 | [Keras](https://github.com/XifengGuo/DEC-keras) |
+
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
