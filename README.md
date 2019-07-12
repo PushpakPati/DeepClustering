@@ -11,7 +11,7 @@
 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
 | [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  PMLR 2017  |    |
-| [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE), [Theano] (https://github.com/arianhosseini/GMVAE), [Tensorflow] (https://github.com/RuiShu/vae-clustering, https://github.com/psanch21/VAE-GMVAE)|
+| [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Tensorflow] (https://github.com/RuiShu/vae-clustering), [Tensorflow] (https://github.com/psanch21/VAE-GMVAE)|
 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
