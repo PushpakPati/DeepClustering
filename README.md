@@ -35,6 +35,9 @@
 | [Associative Deep Clustering: Training a Classification Network with No Labels](https://link.springer.com/chapter/10.1007/978-3-030-12939-2_2) |  GCPR 2018 | [Tensorflow](https://github.com/jplapp/associative_deep_clustering) |
 
 
+| [Deep k-Means: Jointly clustering with k-Means and learning representations](https://arxiv.org/abs/1806.10069) |  Arxiv 2018 | [Tensorflow](https://github.com/MaziarMF/deep-k-means) |
+
+
 
 
 
