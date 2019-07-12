@@ -28,6 +28,8 @@
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 | [Deep Embedding Clustering (DEC)](https://arxiv.org/abs/1511.06335) |  ICML 2016 | [Keras](https://github.com/XifengGuo/DEC-keras) |
 | [Deep Embedded Clustering with Data Augmentation (DEC-DA)](https://xifengguo.github.io/papers/ACML18-DEC-DA.pdf) |  ACML 2018 | [Keras](https://github.com/XifengGuo/DEC-DA) |
+| [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering (VaDE)](https://arxiv.org/abs/1611.05148) |  IJCAI 2017 | [Keras](https://github.com/slim1017/VaDE) |
+
 
 
 ## TIPS
