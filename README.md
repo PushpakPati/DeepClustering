@@ -21,12 +21,11 @@
 | [Deep Subspace Clustering Networks(DSC-Nets)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
-|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
+|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec), [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering), [Keras](https://github.com/XifengGuo/DEC-keras) |
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf) | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
 | [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
-| [Deep Embedding Clustering (DEC)](https://arxiv.org/abs/1511.06335) |  ICML 2016 | [Keras](https://github.com/XifengGuo/DEC-keras) |
 | [Deep Embedded Clustering with Data Augmentation (DEC-DA)](https://xifengguo.github.io/papers/ACML18-DEC-DA.pdf) |  ACML 2018 | [Keras](https://github.com/XifengGuo/DEC-DA) |
 | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering (VaDE)](https://arxiv.org/abs/1611.05148) |  IJCAI 2017 | [Keras](https://github.com/slim1017/VaDE) |
 
