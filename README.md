@@ -2,19 +2,19 @@
 
 | SL |    Paper    |  Conference  |  Code |
 | :---------: |  :---------  | :------:  | :------: |
-| 1 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
-| 2 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
-| 3 |  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |  [Theano](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
-| 4 | [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf) | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
-| 5 | [Deep Clustering with Convolutional Autoencoders(DCEC)](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
-| 6 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
-| 7 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
-| 8 | [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
-| 9 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  PMLR 2017  |    |
+| 1 | [An Introduction to Deep Clustering](https://link.springer.com/chapter/10.1007/978-3-319-97864-2_4) | UNSESUL 2019 | [BOOK](https://link.springer.com/bookseries/15892)|
+| 2 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
+| 3 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
+| 4 |  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |  [Theano](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
+| 5 | [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf) | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
+| 6 | [Deep Clustering with Convolutional Autoencoders(DCEC)](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP 2018 | [Keras](https://github.com/XifengGuo/DCEC) |
+| 7 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
+| 8 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
+| 9 | [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
 | 10 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Tensorflow](https://github.com/psanch21/VAE-GMVAE) |
 | 11 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 | 12 | [Improved Deep Embedded Clustering with Local Structure Preservation(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   | IJCAI 2017 |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
-| 13 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
+| 13 | [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering (DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | 14 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf) | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
 | 15 | [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv 2017 | |
 | 16 | [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
@@ -37,7 +37,7 @@
 | 33 | [Deep clustering based on a mixture of autoencoders](https://openreview.net/pdf?id=BJg_fnRqF7) |  Arxiv 2019 | |
 | 34 | [Auto-clustering Output Layer: Automatic Learning of Latent Annotations in Neural Networks](https://arxiv.org/abs/1702.08648) | TNNLS 2017 | |
 | 35 | [Deep clustering: Discriminative embeddings for segmentation and separation](https://arxiv.org/abs/1508.04306) | ICASSP 2016 | [Tensorflow](https://github.com/zhr1201/deep-clustering) |
-| 36 | [An Introduction to Deep Clustering](https://link.springer.com/chapter/10.1007/978-3-319-97864-2_4) | UNSESUL 2019 | [BOOK](https://link.springer.com/bookseries/15892)|
+
 
 
 
