@@ -20,7 +20,7 @@
 | [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
 | [Deep Subspace Clustering Networks(DSC-Nets)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
-| [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
+| [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | [Tensorflow](https://github.com/icannos/mixture-autoencoder) |
 |  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec), [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering), [Keras](https://github.com/XifengGuo/DEC-keras) |
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf) | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
