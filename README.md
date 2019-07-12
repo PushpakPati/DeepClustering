@@ -32,6 +32,8 @@
 | [Deep Subspace Clustering Networks](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) |  NIPS 2017 | [Tensorflow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | [Semi-Supervised Clustering with Neural Networks (ClusterNet](https://arxiv.org/pdf/1806.01547.pdf) |  Arxiv 2018 | |
 | [Towards Unsupervised Classification with Deep Generative Models](https://openreview.net/pdf?id=ryb83alCZ) |  Arxiv 2018 | |
+| [Associative Deep Clustering: Training a Classification Network with No Labels](https://link.springer.com/chapter/10.1007/978-3-030-12939-2_2) |  GCPR 2018 | [Tensorflow](https://github.com/jplapp/associative_deep_clustering) |
+
 
 
 
