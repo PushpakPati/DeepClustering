@@ -31,6 +31,14 @@
 | [DeepCluster: A General Clustering Framework based on Deep Learning](http://ecmlpkdd2017.ijs.si/papers/paperID345.pdf) |  ECML-KDD 2017 | [Matlab](https://github.com/JennyQQL/DeepClusterADMM-Release) |
 
 
+| [Deep Subspace Clustering Networks](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) |  NIPS 2017 | [Tensorflow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
+
+| [Semi-Supervised Clustering with Neural Networks (ClusterNet](https://arxiv.org/pdf/1806.01547.pdf) |  Arxiv 2018 | |
+
+| [Towards Unsupervised Classification with Deep Generative Models](https://openreview.net/pdf?id=ryb83alCZ) |  Arxiv 2018 | |
+
+
+
 
 
 ## TIPS
