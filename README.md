@@ -14,7 +14,7 @@
 | 10 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Tensorflow](https://github.com/psanch21/VAE-GMVAE) |
 | 11 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 | 12 | [Improved Deep Embedded Clustering with Local Structure Preservation(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   | IJCAI 2017 |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
-| 13 | [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering (DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
+| 13 | [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering (DCN)](https://arxiv.org/pdf/1610.04794.pdf)  | Arxiv 2017 | [Theano](https://github.com/boyangumn/DCN-New) |
 | 14 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf) | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
 | 15 | [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv 2017 | |
 | 16 | [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
